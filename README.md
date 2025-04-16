@@ -3,7 +3,7 @@
 This is Task 01 of my Web Development Internship at **SkillCraft Technology**.  
 The goal of this project is to create a **responsive landing page** with an interactive and fixed navigation menu.
 
----
+
 
 ## 📌 Task Description
 
@@ -12,8 +12,6 @@ Create an interactive navigation menu that:
 - Remains **fixed** at the top and is **visible on all pages**.
 
 The page is fully responsive and adjusts to different screen sizes using modern HTML, CSS, and JavaScript.
-
----
 
 ## ✨ Features
 
@@ -24,7 +22,6 @@ The page is fully responsive and adjusts to different screen sizes using modern 
 - ✅ Smooth Scrolling
 - ✅ Clean UI with animations (using AOS / Animate.css)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +31,6 @@ The page is fully responsive and adjusts to different screen sizes using modern 
 - [AOS.js](https://michalsnik.github.io/aos/) (for animations)
 - [Font Awesome](https://fontawesome.com/) (for icons)
 
----
 
 ## 🚀 How to Run the Project
 
